@@ -1,6 +1,5 @@
 import React from "react";
 // requires a loader
-import { Carousel } from "react-responsive-carousel";
 import "./style.css";
 
 export const Header = (props) => {
