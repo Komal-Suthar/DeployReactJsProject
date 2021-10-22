@@ -148,7 +148,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy;2021 All Rights Reserved by Disney technology. Design by{" "}
+            &copy;2021 All Rights Reserved by ShreeMM technology. Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               ShreeMM technology
             </a>
